@@ -1,0 +1,8 @@
+site_name: Road To Excellence
+plugins:
+  - multirepo:
+      repos:
+        - section: Go Lang For Devops & Cloud Engineers
+          import_url: https://github.com/road-to-excellence/golang-for-devops-and-cloud-engineers?branch=main
+theme:
+  name: "material"
